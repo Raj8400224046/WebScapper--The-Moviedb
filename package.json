@@ -1,0 +1,19 @@
+{
+  "name": "movieappscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj8400224046/WebScapper--The-Moviedb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raj8400224046/WebScapper--The-Moviedb/issues"
+  },
+  "homepage": "https://github.com/Raj8400224046/WebScapper--The-Moviedb#readme"
+}
